@@ -1,0 +1,12 @@
+{
+  "name": "tarea_01",
+  "version": "1.0.0",
+  "description": "Tarea Saludo inicial con node y javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node listas-objetos-fechas.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yorman Amaro",
+  "license": "ISC"
+}
