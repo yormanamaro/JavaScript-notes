@@ -64,5 +64,8 @@ const mes = ahora.getMonth() + 1; // obteniendo solo una parte de la fecha
 const anyo = ahora.getFullYear(); // obteniendo solo una parte de la fecha
 
 console.log(dia, mes, anyo);
+console.log(dia);
+console.log(mes);
+console.log(anyo);
 
 
